@@ -6,6 +6,6 @@ using System.Text;
 namespace ClassLibrary1
 {
     class Class3
-    { 
+    {  
     }
 }
